@@ -24,7 +24,3 @@ jupyter notebook bank-marketing-campaign-analysis.ipynb
 ```
 
 No data download needed. The dataset is fetched automatically from the UCI ML Repository.
-
-## Dashboard
-
-Explore the interactive version on [Tableau Public](https://public.tableau.com/app/profile/an.tam.kha.nguyen.2002/viz/GSARealEstatePortfolioAnalysis/Dashboard3).
